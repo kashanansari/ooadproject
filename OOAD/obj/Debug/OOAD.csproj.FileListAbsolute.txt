@@ -1,0 +1,22 @@
+C:\Users\ammar\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe.config
+C:\Users\ammar\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe
+C:\Users\ammar\source\repos\OOAD\OOAD\bin\Debug\OOAD.pdb
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.Form1.resources
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.Properties.Resources.resources
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.GenerateResource.cache
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.exe
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.pdb
+C:\Users\ammar\source\repos\OOAD\OOAD\obj\Debug\OOAD.DatabaseListForm.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\bin\Debug\OOAD.exe.config
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.exe
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.pdb
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\bin\Debug\OOAD.exe
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\bin\Debug\OOAD.pdb
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.csprojResolveAssemblyReference.cache
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.DatabaseListForm.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form1.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Properties.Resources.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.csproj.GenerateResource.Cache
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form2.resources
