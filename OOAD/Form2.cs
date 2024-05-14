@@ -22,7 +22,7 @@ namespace OOAD
 
             if (isLoginSuccessful)
             {
-                MessageBox.Show("Login successful!");
+                MessageBox.Show("Login successful congratulations!");
             }
             else
             {
