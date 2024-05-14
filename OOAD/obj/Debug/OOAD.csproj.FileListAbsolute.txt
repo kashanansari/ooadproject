@@ -20,3 +20,9 @@ C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form1.resources
 C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Properties.Resources.resources
 C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.csproj.GenerateResource.Cache
 C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form2.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form3.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form4.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form5.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form6.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form7.resources
+C:\Users\GRACE COM\Desktop\OOAD\OOAD\obj\Debug\OOAD.Form8.resources
