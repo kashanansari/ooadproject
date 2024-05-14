@@ -33,7 +33,7 @@ namespace OOAD
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
-                    MessageBox.Show("Successfully Done");
+                    MessageBox.Show("Successfully Done!");
                     DatabaseListForm databaseListForm = new DatabaseListForm(connection);
                     databaseListForm.ShowDialog();
                 }
